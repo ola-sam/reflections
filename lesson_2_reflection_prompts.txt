@@ -1,0 +1,35 @@
+Git is version control software
+What happens when you initialize a repository? Why do you need to do it?
+When you initialize a repository, it creates a .git file
+Initializing a repository is important to create a git version/
+file of the files in the repository.
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+The staging area is where we can add file(s) to be committed 
+It helps group files together, and it also saves time and concise number of commits
+
+
+How can you use the staging area to make sure you have one commit per logical
+change?
+The staging area can be used to keep all files affected by one logical commit before committing the change
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+-When creating another version of the project like a language version and when experimenting?
+-Branch will help keep the original version, or make a another copy to be worked on. It encourage creativity
+
+How do the diagrams help you visualize the branch structure?
+The diagram helps keep track of commits and branches that are yet to be incorporated into the master
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+Merging two branches together will combine all the commits in the two branches
+We represent it in a diagram for clarity, tracking and proper understanding of the branches and changes made
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges
+manually?
+
+
+
+https://github.com/github/training-kit/blob/master/downloads/github-git-cheat-sheet.pdf
