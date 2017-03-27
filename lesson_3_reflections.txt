@@ -1,1 +1,8 @@
 Creating lesson three reflection
+
+Why might you want to always pull changes manually rather than having Git 
+automatically stay up-to-date with your remote repository?
+
+It is better to pull manually so that you can control and make meaningful commits and pull/push only when deemed fit
+
+
